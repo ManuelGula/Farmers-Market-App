@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">COSC 341 Project</string>
+
+    <string name="kfm">Kelowna Farmers Market</string>
+    // Home page String values
+    <string name="bbh">Brainy Bee Honey</string>
+
+    <string name="fs">Flower Shop</string>
+
+    <string name="jf">Joe Farms</string>
+
+    <string name="opp">Ogopogo Oonuts</string>
+
+    <string name="nf">Oh Natural Food</string>
+
+    <string name="hjhs">Habby Jacks Hot Sauce</string>
+
+    <string name="valv">0</string>
+    // Product page String values
+    <string name="clsic">Classic \n $9.99</string>
+
+    <string name="hg">Honey Grain \n $12.99</string>
+
+    <string name="ging">Ginger \n $9.99</string>
+
+    <string name="Laven">Lavender \n $14.99</string>
+
+    <string name="pums">Pumpkin Spice \n $14.99</string>
+
+    <string name="blueB">Blueberry \n $14.99</string>
+
+    <string name="van">Vanilla \n $11.99</string>
+
+    <string name="cin">Cinnamon \n $10.99</string>
+
+    <string name="cran">Cranberry \n $7.99</string>
+    // ProductToCart page String values
+    <string name="ttl">Brainy Bee Honey</string>
+
+    <string name="describe">The classic honey is pure and organic. 50 mL per glass jar.</string>
+
+    <string name="Qty">Quantity:</string>
+
+    <string name="ATD">Add to Cart</string>
+</resources>
